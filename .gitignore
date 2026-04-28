@@ -1,0 +1,27 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.bak
+*.log
+*.orig
+*.temp
+*.tmp
+
+# Office lock files
+~$*
+
+# Editor swap files
+*.swo
+*.swp
